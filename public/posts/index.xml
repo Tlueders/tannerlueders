@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tanner Lueders</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tanner Lueders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 May 2025 10:04:41 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Security Overview</title>
+      <link>http://localhost:1313/posts/application-security-overview-1/</link>
+      <pubDate>Fri, 16 May 2025 10:04:41 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/application-security-overview-1/</guid>
+      
+      <description>My name is Tanner Lueders and I have been working in the Software / Tech industry for about 10 years. During that time, I have been in roles such as a: Frontend Engineer, Backend Engineer, Senior Platform Engineer and most recently Senior DevOps Engineer. Through this experience, I have seen what its like to build web applications and architectures from all angles. It has exposed to programming the client side, backend APIs and building out cloud networks and infrastructure.</description>
+      
+    </item>
+    
+    <item>
+      <title>My Homelab Thoughts and Goals</title>
+      <link>http://localhost:1313/posts/homelab-goals/</link>
+      <pubDate>Fri, 16 May 2025 09:35:47 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/homelab-goals/</guid>
+      
+      <description>After working as a Software Engineer for the last ~8 years, and specifically a DevOps engineer the last five, I have grown a large interest in self-hosting, homelabs, and security. This has lead me down the path of spinning up VM&amp;rsquo;s, clusters and tooling here and there to solve temporary individual needs and exploration.
+Additionally, outside of tech, I am into other hobbies like photography and gaming. After a decade of taking photos, I have built up quite the archive of images.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
